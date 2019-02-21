@@ -2,7 +2,7 @@
 
 Testcase of bellow issue:
 
-- 
+- https://github.com/mybatis/mybatis-3/issues/1484 LONGVARCHAR is mapped to ClobTypeHandler
 
 # How to setup environment(RDBMS, JDBC driver maven module)
 
